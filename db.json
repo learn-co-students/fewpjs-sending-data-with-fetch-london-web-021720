@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,103 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "fygiu",
+      "dogBreed": "kjnlk",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "fygiu",
+      "dogBreed": "kjnlk",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "safsa",
+      "dogBreed": "fsdf",
+      "submit": "Submit",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 17
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 18
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 19
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 20
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +116,113 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 1
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 2
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 3
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 4
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 5
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 6
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 7
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 8
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 9
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 10
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 11
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 12
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 13
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 14
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 15
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 16
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 17
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 18
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 19
+    },
+    {
+      "name": "ass",
+      "email": "fuck",
+      "id": 20
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
